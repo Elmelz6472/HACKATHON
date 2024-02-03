@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "name": "Apartments",
+    "cost": 180000,
+    "size": 120
+  },
+  {
+    "id": 1,
+    "name": "Primary School",
+    "cost": 30000000,
+    "size": 10000
+  },
+  {
+    "id": 2,
+    "name": "High School",
+    "cost": 40000000,
+    "size": 20000
+  },
+  {
+    "id": 3,
+    "name": "College",
+    "cost": 60000000,
+    "size": 30000
+  },
+  {
+    "id": 4,
+    "name": "University",
+    "cost": 80000000,
+    "size": 40000
+  },
+  {
+    "id": 5,
+    "name": "Hospital",
+    "cost": 200000000,
+    "size": 50000
+  },
+  {
+    "id": 6,
+    "name": "Fire Station",
+    "cost": 2500000,
+    "size": 1000
+  },
+  {
+    "id": 7,
+    "name": "Police Station",
+    "cost": 2500000,
+    "size": 1000
+  },
+  {
+    "id": 8,
+    "name": "Supermarket",
+    "cost": 15000000,
+    "size": 5000
+  },
+  {
+    "id": 9,
+    "name": "Town Hall",
+    "cost": 10000000,
+    "size": 5000
+  },
+  {
+    "id": 10,
+    "name": "Water Treatment Facility",
+    "cost": 6000000,
+    "size": 4000
+  },
+  {
+    "id": 11,
+    "name": "Power Substation",
+    "cost": 35000000,
+    "size": 10000
+  },
+  {
+    "id": 12,
+    "name": "Post Office",
+    "cost": 2000000,
+    "size": 1000
+  },
+  {
+    "id": 13,
+    "name": "Telecommunication Infrastructure",
+    "cost": 1500000,
+    "size": 1000
+  },
+  {
+    "id": 14,
+    "name": "Parks",
+    "cost": 200000,
+    "size": 10000
+  },
+  {
+    "id": 15,
+    "name": "Garbage Collection Facility",
+    "cost": 3000000,
+    "size": 2000
+  },
+  {
+    "id": 16,
+    "name": "Church",
+    "cost": 3500000,
+    "size": 1000
+  },
+  {
+    "id": 17,
+    "name": "Mosque",
+    "cost": 3500000,
+    "size": 1000
+  },
+  {
+    "id": 18,
+    "name": "Other Religious Building",
+    "cost": 3500000,
+    "size": 1000
+  },
+  {
+    "id": 19,
+    "name": "Community Center",
+    "cost": 20000000,
+    "size": 10000
+  }
+]
