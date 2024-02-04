@@ -1,122 +1,219 @@
 [
   {
-    "id": 0,
-    "name": "Apartments",
-    "cost": 180000,
-    "size": 120
-  },
-  {
+    "type": "building",
     "id": 1,
     "name": "Primary School",
     "cost": 30000000,
-    "size": 10000
+    "size": 10000,
+    "position": [0, 0],
+    "color": "#33FF57"
   },
   {
+    "type": "building",
     "id": 2,
     "name": "High School",
     "cost": 40000000,
-    "size": 20000
+    "size": 20000,
+    "position": [0, 0],
+    "color": "#5733FF"
   },
   {
+    "type": "building",
     "id": 3,
     "name": "College",
     "cost": 60000000,
-    "size": 30000
+    "size": 30000,
+    "position": [0, 0],
+    "color": "#FF5733"
   },
   {
+    "type": "building",
     "id": 4,
     "name": "University",
     "cost": 80000000,
-    "size": 40000
+    "size": 40000,
+    "position": [0, 0],
+    "color": "#33FF57"
   },
   {
+    "type": "building",
     "id": 5,
     "name": "Hospital",
     "cost": 200000000,
-    "size": 50000
+    "size": 50000,
+    "position": [0, 0],
+    "color": "#5733FF"
   },
   {
+    "type": "building",
     "id": 6,
     "name": "Fire Station",
     "cost": 2500000,
-    "size": 1000
+    "size": 1000,
+    "position": [0, 0],
+    "color": "#FF5733"
   },
   {
+    "type": "building",
     "id": 7,
     "name": "Police Station",
     "cost": 2500000,
-    "size": 1000
+    "size": 1000,
+    "position": [0, 0],
+    "color": "#33FF57"
   },
   {
+    "type": "building",
     "id": 8,
     "name": "Supermarket",
     "cost": 15000000,
-    "size": 5000
+    "size": 5000,
+    "position": [0, 0],
+    "color": "#5733FF"
   },
   {
+    "type": "building",
     "id": 9,
     "name": "Town Hall",
     "cost": 10000000,
-    "size": 5000
+    "size": 5000,
+    "position": [0, 0],
+    "color": "#FF5733"
   },
   {
+    "type": "building",
     "id": 10,
     "name": "Water Treatment Facility",
     "cost": 6000000,
-    "size": 4000
+    "size": 4000,
+    "position": [0, 0],
+    "color": "#33FF57"
   },
   {
+    "type": "building",
     "id": 11,
     "name": "Power Substation",
     "cost": 35000000,
-    "size": 10000
+    "size": 10000,
+    "position": [0, 0],
+    "color": "#5733FF"
   },
   {
+    "type": "building",
     "id": 12,
     "name": "Post Office",
     "cost": 2000000,
-    "size": 1000
+    "size": 1000,
+    "position": [0, 0],
+    "color": "#FF5733"
   },
   {
+    "type": "building",
     "id": 13,
     "name": "Telecommunication Infrastructure",
     "cost": 1500000,
-    "size": 1000
+    "size": 1000,
+    "position": [0, 0],
+    "color": "#33FF57"
   },
   {
+    "type": "building",
     "id": 14,
     "name": "Parks",
     "cost": 200000,
-    "size": 10000
+    "size": 10000,
+    "position": [0, 0],
+    "color": "#5733FF"
   },
   {
+    "type": "building",
     "id": 15,
     "name": "Garbage Collection Facility",
     "cost": 3000000,
-    "size": 2000
+    "size": 2000,
+    "position": [0, 0],
+    "color": "#FF5733"
   },
   {
+    "type": "building",
     "id": 16,
     "name": "Church",
     "cost": 3500000,
-    "size": 1000
+    "size": 1000,
+    "position": [0, 0],
+    "color": "#33FF57"
   },
   {
+    "type": "building",
     "id": 17,
     "name": "Mosque",
     "cost": 3500000,
-    "size": 1000
+    "size": 1000,
+    "position": [0, 0],
+    "color": "#5733FF"
   },
   {
+    "type": "building",
     "id": 18,
     "name": "Other Religious Building",
     "cost": 3500000,
-    "size": 1000
+    "size": 1000,
+    "position": [0, 0],
+    "color": "#FF5733"
   },
   {
+    "type": "building",
     "id": 19,
     "name": "Community Center",
     "cost": 20000000,
-    "size": 10000
+    "size": 10000,
+    "position": [0, 0],
+    "color": "#33FF57"
+  },
+  {
+    "type": "building",
+    "id": 20,
+    "name": "Farm",
+    "cost": 50000000,
+    "size": 1000000,
+    "position": [0, 0],
+    "color": "#5733FF"
+  },
+  {
+    "type": "building",
+    "id": 21,
+    "name": "Solar Energy",
+    "cost": 50000000,
+    "size": 250000,
+    "position": [0, 0],
+    "color": "#FF5733"
+  },
+  {
+    "type": "building",
+    "id": 22,
+    "name": "Wind Energy",
+    "cost": 9000000,
+    "size": 250000,
+    "position": [0, 0],
+    "color": "#33FF57"
+  },
+  {
+    "type": "building",
+    "id": 23,
+    "name": "Hydro Energy",
+    "cost": 125000000,
+    "size": 100000,
+    "position": [0, 0],
+    "color": "#5733FF"
+  },
+  {
+    "type": "house",
+    "id": 24,
+    "name": "House",
+    "cost": 538000,
+    "size": 250,
+    "position": [0, 0],
+    "quantity": 100,
+    "color": "#FF5733"
   }
 ]
